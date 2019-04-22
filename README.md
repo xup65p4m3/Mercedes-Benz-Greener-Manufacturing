@@ -1,4 +1,6 @@
 # Mercedes-Benz-Greener-Manufacturing
-Kaggle Mercedes-Benz Greener Manufacturing Top2%
+got Top 2% in Kaggle Mercedes-Benz Greener Manufacturing competition
+
+used tree based model only(Catboost, Xgboost, Lightgbm, Random Forest)
 
 https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/overview
